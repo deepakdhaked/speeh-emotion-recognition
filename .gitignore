@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# DataSet Files
+./tess toronto emotional speech set data/
+./TESS Toronto emotional speech set data/
