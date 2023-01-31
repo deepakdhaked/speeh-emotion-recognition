@@ -129,5 +129,5 @@ dmypy.json
 .pyre/
 
 # DataSet Files
-./tess toronto emotional speech set data/
-./TESS Toronto emotional speech set data/
+tess toronto emotional speech set data/
+TESS Toronto emotional speech set data/
